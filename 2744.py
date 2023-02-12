@@ -1,2 +1,1 @@
-a=input()
-print(a.swapcase())
+print(input().swapcase())
