@@ -1,0 +1,1 @@
+print("34\npuppy1012")
